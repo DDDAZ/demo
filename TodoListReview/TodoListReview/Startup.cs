@@ -33,6 +33,16 @@ namespace TodoListReview
 
             services.AddControllers();
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", p =>
+                {
+                    p.AllowAnyOrigin()
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                });
+            });
+
             // Swagger addition part 1
             services.AddSwaggerGen();
             services.AddSwaggerGen(c =>
@@ -68,6 +78,8 @@ namespace TodoListReview
             {
                 endpoints.MapControllers();
             });
+
+            app.UseCors("AllowAll");
         }
     }
 }
