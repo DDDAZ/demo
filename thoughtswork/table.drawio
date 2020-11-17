@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T09:05:45.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="CPmICBWfwr68hYdHGQ-u" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T09:06:48.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="sykjRz5gxHbCEgH91wvz" type="github">
   <diagram id="dD6RDnshRVkeDjejvfDG" name="Page-1">
-    <mxGraphModel dx="716" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="ctK7kMqRd5sZVbqTwOhn-58" value="start: number&lt;br&gt;end: number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="519.1972913694875" y="689.5849963407811" as="geometry" />
         </mxCell>
-        <mxCell id="ctK7kMqRd5sZVbqTwOhn-59" value="check&lt;br&gt;Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ctK7kMqRd5sZVbqTwOhn-59" value="write&lt;br&gt;Multiplication&lt;br&gt;Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="780" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ctK7kMqRd5sZVbqTwOhn-60" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ctK7kMqRd5sZVbqTwOhn-61" value="valid: boolean" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ctK7kMqRd5sZVbqTwOhn-60">
+        <mxCell id="ctK7kMqRd5sZVbqTwOhn-61" value="table: string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ctK7kMqRd5sZVbqTwOhn-60">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint x="-14.8" y="-9.009999999999998" as="offset" />
           </mxGeometry>
