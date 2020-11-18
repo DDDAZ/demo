@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T03:28:36.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1XvAQba4gC3aHPRGMvF9" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T03:29:03.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gGQAzm_ail614eIq_6Et" version="13.9.9" type="github">
   <diagram id="ZVUyzf1_lCy0eXDHObuF" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
         <mxCell id="C6Ept4q3sVwMuoM6jzrB-21" value="tags: string[]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C6Ept4q3sVwMuoM6jzrB-22" value="checkResult: boolean[]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="280" width="140" height="20" as="geometry" />
+        <mxCell id="C6Ept4q3sVwMuoM6jzrB-22" value="checkResult:&lt;br&gt;boolean[]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="267" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C6Ept4q3sVwMuoM6jzrB-23" value="get&lt;br&gt;Barcode&lt;br&gt;InPromotions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="220" width="80" height="100" as="geometry" />
